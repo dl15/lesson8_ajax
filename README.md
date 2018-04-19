@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 18, 2018
 
 ### Student Name:  
-(First and Last Name)
+Diego Leon
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This web application uses an API provided by TheMovieDB to access information about the movies in its database
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dl15.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to pull information from an API
+2. How to get access to an API (Using an API key)
+3. How to link a node ID to the information provided on the API to properly retrieve it
